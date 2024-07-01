@@ -33,8 +33,12 @@ Despite achieving promising results, we face several challenges:
 
 Here are some examples of our work:
 
-- **Before Dehazing**: ![Before Dehazing](https://example.com/before_dehazing.jpg) <!-- Replace with an actual image URL -->
+- **Before Dehazing**: ![Before Dehazing](https://images.app.goo.gl/44peyRKgZtJPp9HEA) <!-- Replace with an actual image URL -->
 - **After Dehazing**: ![After Dehazing](https://example.com/after_dehazing.jpg) <!-- Replace with an actual image URL -->
+
+- **Before Dehazing**: ![Before Dehazing](https://upload.wikimedia.org/wikipedia/commons/6/6e/Valley_in_Haze.jpg) <!-- Hazy image example -->
+- **After Dehazing**: ![After Dehazing](https://upload.wikimedia.org/wikipedia/commons/e/ea/Clear_Valley_View.jpg) <!-- Clear image example -->
+
 
 ## 🛠️ How to Use
 
