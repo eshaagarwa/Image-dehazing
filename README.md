@@ -8,8 +8,10 @@ Welcome to our final year project! We're addressing the common issue of haziness
 
 Here's an example demonstrating our method on a hilly valley scene:
 
-![Hazy Image](https://upload.wikimedia.org/wikipedia/commons/6/6e/Foggy_valley.jpg) <!-- Hazy image example -->
-![Clear Image](https://upload.wikimedia.org/wikipedia/commons/3/37/Clear_mountain_valley.jpg) <!-- Clear image example -->
+
+![Hazy Image](https://github.com/eshaagarwa/Image-dehazing/blob/main/hazy.jpeg) <!-- Hazy image example -->
+
+![Clear Image](https://github.com/eshaagarwa/Image-dehazing/blob/main/Real_image.jpeg) <!-- Clear image example -->
 
 ## 🔍 Methodology
 
@@ -19,7 +21,7 @@ The **Dark Prior Channel** technique is designed to improve image clarity by lev
 2. **Haze Estimation**: By identifying these dark pixels, we estimate the haze in the image. 📉
 3. **Haze Removal**: We then apply our findings to clear the haze, dust, and fog, enhancing the overall image quality. 🖼️
 
-![Haze Removal Process](https://upload.wikimedia.org/wikipedia/commons/4/4f/Dehazing_example.png) <!-- Example of haze removal process -->
+
 
 ## 🚧 Challenges
 
@@ -37,8 +39,8 @@ Despite achieving promising results, we face several challenges:
 
 Here are some examples of our work:
 
-- **Before Dehazing**: ![Before Dehazing](https://upload.wikimedia.org/wikipedia/commons/6/6e/Foggy_valley.jpg) <!-- Hazy image example -->
-- **After Dehazing**: ![After Dehazing](https://upload.wikimedia.org/wikipedia/commons/3/37/Clear_mountain_valley.jpg) <!-- Clear image example -->
+- **Before Dehazing**: ![Before Dehazing](https://github.com/eshaagarwa/Image-dehazing/blob/main/Real_image.jpeg) <!-- Hazy image example -->
+- **After Dehazing**: ![After Dehazing](https://github.com/eshaagarwa/Image-dehazing/blob/main/hazy.jpeg) <!-- Clear image example -->
 
 ## 🛠️ How to Use
 
