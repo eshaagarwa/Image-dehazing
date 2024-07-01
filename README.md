@@ -4,8 +4,12 @@
 
 Welcome to our final year project! We're addressing the common issue of haziness in images with the **Dark Prior Channel** method. 🌫️ Dust, haze, and fog can obscure details and diminish image quality, making it hard to see what's important. Our project aims to tackle this by refining and enhancing ground truth images, removing unwanted distortions for clearer and more vibrant visuals. 🚀✨
 
-![Hazy Image](https://www.mountainphotography.com/images/hazy_valley.jpg) <!-- Hazy image example -->
-![Clear Image](https://upload.wikimedia.org/wikipedia/commons/e/ea/Valley_clear.jpg) <!-- Clear image example -->
+### Example: Hilly Valley
+
+Here's an example demonstrating our method on a hilly valley scene:
+
+![Hazy Image](https://upload.wikimedia.org/wikipedia/commons/6/6e/Foggy_valley.jpg) <!-- Hazy image example -->
+![Clear Image](https://upload.wikimedia.org/wikipedia/commons/3/37/Clear_mountain_valley.jpg) <!-- Clear image example -->
 
 ## 🔍 Methodology
 
@@ -15,7 +19,7 @@ The **Dark Prior Channel** technique is designed to improve image clarity by lev
 2. **Haze Estimation**: By identifying these dark pixels, we estimate the haze in the image. 📉
 3. **Haze Removal**: We then apply our findings to clear the haze, dust, and fog, enhancing the overall image quality. 🖼️
 
-![Haze Removal Process](https://example.com/haze_removal_process.jpg) <!-- Replace with an actual image URL -->
+![Haze Removal Process](https://upload.wikimedia.org/wikipedia/commons/4/4f/Dehazing_example.png) <!-- Example of haze removal process -->
 
 ## 🚧 Challenges
 
@@ -33,12 +37,8 @@ Despite achieving promising results, we face several challenges:
 
 Here are some examples of our work:
 
-- **Before Dehazing**: ![Before Dehazing](https://images.app.goo.gl/44peyRKgZtJPp9HEA) <!-- Replace with an actual image URL -->
-- **After Dehazing**: ![After Dehazing](https://example.com/after_dehazing.jpg) <!-- Replace with an actual image URL -->
-
-- **Before Dehazing**: ![Before Dehazing](https://upload.wikimedia.org/wikipedia/commons/6/6e/Valley_in_Haze.jpg) <!-- Hazy image example -->
-- **After Dehazing**: ![After Dehazing](https://upload.wikimedia.org/wikipedia/commons/e/ea/Clear_Valley_View.jpg) <!-- Clear image example -->
-
+- **Before Dehazing**: ![Before Dehazing](https://upload.wikimedia.org/wikipedia/commons/6/6e/Foggy_valley.jpg) <!-- Hazy image example -->
+- **After Dehazing**: ![After Dehazing](https://upload.wikimedia.org/wikipedia/commons/3/37/Clear_mountain_valley.jpg) <!-- Clear image example -->
 
 ## 🛠️ How to Use
 
@@ -47,5 +47,4 @@ To see our method in action or integrate it into your projects, check out our co
 ---
 
 Thank you for exploring our project! Feel free to provide feedback or contribute. 🙌💬
-
 
