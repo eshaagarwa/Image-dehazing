@@ -4,8 +4,8 @@
 
 Welcome to our final year project! We're addressing the common issue of haziness in images with the **Dark Prior Channel** method. 🌫️ Dust, haze, and fog can obscure details and diminish image quality, making it hard to see what's important. Our project aims to tackle this by refining and enhancing ground truth images, removing unwanted distortions for clearer and more vibrant visuals. 🚀✨
 
-![Hazy Image](https://example.com/hazy_image.jpg)  <!-- Replace with an actual image URL -->
-![Clear Image](https://example.com/clear_image.jpg) <!-- Replace with an actual image URL -->
+![Hazy Image](https://upload.wikimedia.org/wikipedia/commons/1/1e/Valley_in_haze.jpg) <!-- Hazy image example -->
+![Clear Image](https://upload.wikimedia.org/wikipedia/commons/e/ea/Valley_clear.jpg) <!-- Clear image example -->
 
 ## 🔍 Methodology
 
